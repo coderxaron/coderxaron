@@ -12,7 +12,7 @@
 ---
 
 ### 📊 Stats (just for fun)
-![Coderxaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coderxaron&show_icons=true&theme=tokyonight)
+![Coderxaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coderxaron&show_icons=true&theme=dracula)
 
 ---
 
