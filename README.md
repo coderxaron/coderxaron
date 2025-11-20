@@ -20,9 +20,9 @@ LeadDev for Matt Studios
 
 Most successful Game:
 - CCU 340
-- Visits 360K
+- Visits 428k
 
-Total Visits:
-440.8K
+Contributed to:
+500k Visits
 
 Discord: coderxaron
