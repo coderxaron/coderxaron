@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Coderxaron!
 
-💻 I do **code**  
-⌨️ and I like **typing on keyboards** 🐒  
+Check my website out:
+
+https://coderxaron.github.io/
 
 ---
 
