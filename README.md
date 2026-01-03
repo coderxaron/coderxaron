@@ -23,6 +23,7 @@ Most successful Game:
 Contributed to:
 590k Visits
 
-![Profile views](https://komarev.com/ghpvc/?username=coderxaron&color=green)
 Discord: coderxaron
 Roblox: thecoderxaron
+
+![Profile views](https://komarev.com/ghpvc/?username=coderxaron&color=green)
