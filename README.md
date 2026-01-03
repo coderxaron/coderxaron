@@ -1,14 +1,11 @@
 # 👋 Hi, I'm Coderxaron!
 
-Check my website out:
-
-https://coderxaron.github.io/
-
 ---
 
 ### 🧠 About Me
-- ⚡ I build cool stuff (sometimes it even works)
-- 🧩 I work with Roblox Studio and ASP.Net C#, c++
+- ⚡ I build cool stuff 
+- 🥔 Potatos are Peak
+- 🧩 I work with Roblox Studio and ASP.Net C#, c++, JS
 
 ---
 
@@ -21,9 +18,10 @@ LeadDev for Matt Studios
 
 Most successful Game:
 - CCU 340
-- Visits 428k
+- Visits 500k
 
 Contributed to:
-500k Visits
+590k Visits
 
 Discord: coderxaron
+Roblox: thecoderxaron
