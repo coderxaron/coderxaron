@@ -3,9 +3,10 @@
 ---
 
 ### 🧠 About Me
-- ⚡ I build cool stuff 
+- ⚡ I build and maintain small to mid-scale systems
 - 🥔 Potatos are Peak
-- 🧩 I work with Roblox Studio and ASP.Net C#, c++, JS
+- 🧩 I mainly work with Roblox Studio (Lua)  
+  and have basic experience with C#, C++, and JavaScript
 
 ---
 
@@ -14,16 +15,37 @@
 
 ---
 
-LeadDev for Matt Studios
+Lead developer on a small Roblox studio project (Matt Studios)
 
-Most successful Game:
-- CCU 340
-- Visits 500k
+Most successful game:
+- Peak CCU ~340
+- ~500k total visits
 
-Contributed to:
-590k Visits
+Contributed to projects totaling ~629k visits
 
-Discord: coderxaron
+Discord: coderxaron  
 Roblox: thecoderxaron
+
+---
+
+### 🧪 Recent Project
+**Tester View Dashboard**
+
+Small web tool that shows live tester counts for multiple Roblox groups
+and compares them with older data.
+
+**Why:**
+Built to quickly see tester activity changes without manually checking
+each group.
+
+**Notes:**
+- Internal utility, not production-ready
+- Group/role IDs are hardcoded
+- Minimal error handling for now
+
+Live demo:  
+https://coderxaron.github.io/tester-check.github.io/
+
+---
 
 ![Profile views](https://komarev.com/ghpvc/?username=coderxaron&color=green)
