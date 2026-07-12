@@ -14,8 +14,6 @@ Outside of Roblox I sometimes build web tools, websites, and Discord bots.
 
 ## Experience
 
-Developer at Matt Studios.
-
 Worked on multiple Roblox experiences, including projects reaching:
 - ~340 peak concurrent players
 - ~500k total visits
